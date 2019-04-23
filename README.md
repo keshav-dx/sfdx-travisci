@@ -52,3 +52,7 @@ If you find any issues or opportunities for improving this repository, fix them!
 If you find any issues with this demo that you can't fix, feel free to report them in the [issues](https://github.com/forcedotcom/sfdx-travisci/issues) section of this repository.
 
 Test
+
+Users⁩/⁨t_pulk⁩/⁨Documents⁩/⁨Mavensmate⁩/dxTrail⁩/HelloWorldLightningWebComponent/⁨sfdx-travisci⁩/certificates⁩/server.key
+
+sfdx force:auth:jwt:grant --clientid ${CONSUMER_KEY} --username ${HUB_USERNAME} \--jwtkeyfile ${JWT_KEY_FILE} --setdefaultdevhubusername
